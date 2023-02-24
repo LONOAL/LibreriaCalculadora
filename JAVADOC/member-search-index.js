@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"Calculadora","l":"Calculadora()","u":"%3Cinit%3E()"},{"p":"org.example","c":"Calculadora","l":"realizar(int, float, float)","u":"realizar(int,float,float)"}];updateSearchResults();
